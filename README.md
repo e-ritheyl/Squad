@@ -2,7 +2,8 @@
 Group assist package for the Gaudiguch Kill Squad
 
 INSTRUCTIONS FOR USE:<br>
-1. Download and install via Mudlet Package Manager
+1. Uninstall all previous versions via Mudlet Package Manager
+1. Download and install latest version via Mudlet Package Manager
 2. Toggle with alias SQUAD. Most triggers echo relevant commands<br>
    for ease of use right out of the box.
    
